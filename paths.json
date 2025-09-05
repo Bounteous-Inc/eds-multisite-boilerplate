@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/eds-whitelabel/:/",
-    "/content/eds-whitelabel/configuration:/.helix/config.json",
-    "/content/eds-whitelabel/metadata:/metadata.json"
+    "/content/eds-multisite-whitelabel/:/",
+    "/content/eds-multisite-whitelabel/configuration:/.helix/config.json",
+    "/content/eds-multisite-whitelabel/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/eds-whitelabel/"
+    "/content/eds-multisite-whitelabel/"
   ]
 }
