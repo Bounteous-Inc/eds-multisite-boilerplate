@@ -1,5 +1,9 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/Bounteous-Inc/eds-whitelabel/main"
+    type: "markup"
+    suffix: ".html"
+  /eds-newco:
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/Bounteous-Inc/eds-newco/main"
     type: "markup"
     suffix: ".html"
