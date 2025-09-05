@@ -3,7 +3,3 @@ mountpoints:
     url: "https://author-p28206-e1206067.adobeaemcloud.com/bin/franklin.delivery/Bounteous-Inc/eds-whitelabel/main"
     type: "markup"
     suffix: ".html"
-  /eds-newco:
-    url: "https://author-p28206-e1206067.adobeaemcloud.com/bin/franklin.delivery/Bounteous-Inc/eds-newco/main"
-    type: "markup"
-    suffix: ".html"
